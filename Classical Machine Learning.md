@@ -1,0 +1,8 @@
+1. [[Core Concepts]]
+2. [[Linear & Logistic Regression]]
+3. [[Trees & Ensembles]]
+4. [[SVM]]
+5. [[Clustering]]
+6. [[Dimentionality Reduction]]
+7. [[Naive Bayes & K-NN]]
+8. [[Naive & Metrics]]

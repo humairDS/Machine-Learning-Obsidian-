@@ -1,0 +1,7 @@
+1. [[Foundation Maths & Stats]]
+2. [[Classical Machine Learning]]
+3. [[Neural Network & Deep Learning]] 
+4. [[Architectures]]
+5. [[NLP]]
+6. [[Reinforcement Learning]]
+7. [[Mlops Projects & Deployment]] 

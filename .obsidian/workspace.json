@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "466fe52ec5a1b7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "983bb54e5cff647f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d7067472f9632e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84ab12f138b417e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c68c488ce9405ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f82a2e51ef19ae8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a864095cd596a39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4c804e0f4027b05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "78e0fe950cdaefdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83046e493067b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f93b90a046783900",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "eb5de0dc97d57ebe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "38f64ca9b0e169bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a2ba5277f2d71318",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b3ae5db7fd4c42db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "01e3e2c4bb292f94",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e894b85f9ff34247",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e894b85f9ff34247",
+  "lastOpenFiles": [
+    "Python Example of KNN.md",
+    "K-NN(K Nearest Neighbors).md",
+    "Naive Bayes & K-NN.md",
+    "Clustering.md",
+    "Fuzzy Clustering.md",
+    "Grid Based Clustering.md",
+    "Distribution Based Clustering.md",
+    "Density Based Clustering.md",
+    "Hierarchical Clustering.md",
+    "Partition Based Clustering.md",
+    "SVM.md",
+    "SVM Python Example.md",
+    "Random Forests.md",
+    "Decision Tree Python Example.md",
+    "Decision Tree.md",
+    "Trees & Ensembles.md",
+    "Classical Machine Learning.md",
+    "Linear algebra.md",
+    "Spaces & dimensions.md",
+    "Transformations.md",
+    "GeeksforGeeks.md",
+    "Clippings/Data Transformation in Machine Learning.md",
+    "Matrices.md",
+    "Clippings/Evaluation Metrics in Machine Learning.md",
+    "Vectors.md",
+    "Clippings/Vectors for ML.md",
+    "Clippings",
+    "python-beginner-course-main/chapter_1.py",
+    "python-beginner-course-main/chapter_1.md.py",
+    "Roam/definitions/Attachments",
+    "Roam/definitions",
+    "Roam",
+    "python-beginner-course-main/words_history.csv",
+    "python-beginner-course-main/play.py",
+    "python-beginner-course-main/definitions.json",
+    "python-beginner-course-main/chapter_2.py"
+  ]
+}
