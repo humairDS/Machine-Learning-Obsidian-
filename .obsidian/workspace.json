@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naive Bayes.md",
+                "file": "Agglomerative (bottom → top).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naive Bayes"
+              "title": "Agglomerative (bottom → top)"
             }
           }
         ]
@@ -220,16 +220,21 @@
   },
   "active": "92d7067472f9632e",
   "lastOpenFiles": [
-    "Naive Bayes & K-NN.md",
+    "Hierarchical Clustering.md",
+    "Agglomerative (bottom → top).md",
+    "Divisive (top → bottom).md",
+    "Python Example.md",
+    "K-Means Clustering.md",
+    "Naive Bayes Python Example.md",
     "Naive Bayes.md",
-    "Python Example of KNN.md",
     "K-NN(K Nearest Neighbors).md",
+    "Naive Bayes & K-NN.md",
+    "Python Example of KNN.md",
     "Clustering.md",
     "Fuzzy Clustering.md",
     "Grid Based Clustering.md",
     "Distribution Based Clustering.md",
     "Density Based Clustering.md",
-    "Hierarchical Clustering.md",
     "Partition Based Clustering.md",
     "SVM.md",
     "SVM Python Example.md",
@@ -241,11 +246,6 @@
     "Linear algebra.md",
     "Spaces & dimensions.md",
     "Transformations.md",
-    "GeeksforGeeks.md",
-    "Clippings/Data Transformation in Machine Learning.md",
-    "Matrices.md",
-    "Clippings/Evaluation Metrics in Machine Learning.md",
-    "Vectors.md",
     "Clippings",
     "python-beginner-course-main/chapter_1.py",
     "python-beginner-course-main/chapter_1.md.py",
