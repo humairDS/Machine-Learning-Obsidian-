@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP.md",
+                "file": "Advanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP"
+              "title": "Advanced"
             }
           }
         ]
@@ -220,32 +220,33 @@
   },
   "active": "92d7067472f9632e",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Architectures.md",
-    "Attention Models.md",
-    "Transformers.md",
-    "Attention Mechanism.md",
-    "Generative Models.md",
-    "Diffusion Models.md",
-    "GANs.md",
-    "VAE.md",
-    "Autoencoders.md",
-    "Sequential Models.md",
-    "GRU.md",
-    "LSTM.md",
-    "RNN.md",
-    "Computer Vision.md",
-    "EfficientNet.md",
-    "ResNet.md",
-    "VGG.md",
-    "AlexNet.md",
-    "LeNet.md",
-    "CNN.md",
-    "Neural Network & Deep Learning.md",
-    "Neural Network Fundamentals.md",
-    "Frameworks.md",
-    "PyTorch.md",
-    "Keras.md",
+    "End-to-End MLOps Pipeline.md",
+    "Advanced.md",
+    "RAG Chatbot.md",
+    "Recommendation System.md",
+    "AI Fitness Trainer (FYP).md",
+    "Projects.md",
+    "Intermediate.md",
+    "Beginner.md",
+    "House Price Prediction.md",
+    "Student Performance Predictor.md",
+    "Mlops Projects & Deployment.md",
+    "Monitoring.md",
+    "Performance Monitoring.md",
+    "Model Drift.md",
+    "Logging.md",
+    "CI/CD.md",
+    "Jenkins.md",
+    "GitHub Actions.md",
+    "CI",
+    "Cloud.md",
+    "AWS Elastic Beanstalk.md",
+    "AWS S3.md",
+    "AWS EC2.md",
+    "AWS SageMaker.md",
+    "AWS IAM.md",
+    "Containers.md",
+    "Deployment.md",
     "Clippings",
     "python-beginner-course-main/chapter_1.py",
     "python-beginner-course-main/chapter_1.md.py",
@@ -254,7 +255,6 @@
     "Roam",
     "python-beginner-course-main/words_history.csv",
     "python-beginner-course-main/play.py",
-    "python-beginner-course-main/definitions.json",
-    "python-beginner-course-main/chapter_2.py"
+    "python-beginner-course-main/definitions.json"
   ]
 }

@@ -1,0 +1,4 @@
+- [[AI Fitness Trainer (FYP)]]
+- [[Recommendation System]]
+- [[RAG Chatbot]]
+- [[End-to-End MLOps Pipeline]] 

@@ -1,0 +1,3 @@
+- [[Word2Vec]]
+- [[GloVe]]
+- [[FastText]] 
