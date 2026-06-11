@@ -1,0 +1,4 @@
+- [[Architecture]]
+- [[Forward Propagation]]
+- [[Loss Functions]]
+- [[Backpropagation]] 

@@ -2,8 +2,8 @@ Clusters are formed where data density is high.
 
 ### Example Algorithms
 
-- [[DBSCAN]]
-- [[OPTICS]]
+- [[DBSCAN]] 
+- [[OPTICS]] 
 
 ### Best For
 

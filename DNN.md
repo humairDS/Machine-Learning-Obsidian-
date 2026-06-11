@@ -1,0 +1,4 @@
+- [[Deep Networks]]
+- [[Vanishing Gradient]]
+- [[Batch Normalization]]
+- [[Dropout]] 

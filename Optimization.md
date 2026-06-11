@@ -1,0 +1,5 @@
+- [[Gradient Descent]]
+- [[SGD]]
+- [[Momentum]]
+- [[RMSProp]]
+- [[Adam]] 

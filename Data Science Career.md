@@ -1,0 +1,7 @@
+- [[Resume]]
+- [[Interview Questions]]
+- [[Certifications]]
+- [[LinkedIn]]
+- [[Portfolio]]
+- [[GitHub Projects]]
+- [[Kaggle]] 

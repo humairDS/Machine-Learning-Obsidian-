@@ -1,0 +1,5 @@
+- [[Python Basics]]
+- [[NumPy]]
+- [[Pandas]] 
+- [[Matplotlib]]
+- [[Seaborn]]

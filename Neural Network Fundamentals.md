@@ -1,0 +1,6 @@
+- [[Biological Neuron]]
+- [[Artificial Neuron]]
+- [[Perceptron]]
+- [[Weights]]
+- [[Bias]]
+- [[Activation Functions]]

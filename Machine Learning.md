@@ -5,3 +5,4 @@
 5. [[NLP]]
 6. [[Reinforcement Learning]]
 7. [[Mlops Projects & Deployment]] 
+8. [[Data Science Career]] 

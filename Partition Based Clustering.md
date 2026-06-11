@@ -2,7 +2,7 @@ Data is divided into predefined clusters.
 ### Example Algorithms
 
 - [[K-Means Clustering]]
-- [[K-Medoids]]
+- [[K-Medoids]] 
 
 ### Best For
 
