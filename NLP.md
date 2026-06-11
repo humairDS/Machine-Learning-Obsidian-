@@ -3,4 +3,4 @@
 3. [[Embeddings]]
 4. [[NLP Tasks]]
 5. [[Transformers NLP]]
-6. [[Advanced NLP]] 
+6. [[Advanced NLP]]  

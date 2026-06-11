@@ -1,0 +1,6 @@
+- [[CNN]]
+- [[LeNet]]
+- [[AlexNet]]
+- [[VGG]]
+- [[ResNet]]
+- [[EfficientNet]] 
