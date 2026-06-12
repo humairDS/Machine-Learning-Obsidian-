@@ -1,10 +1,10 @@
 [
   "calendar",
-  "omnisearch",
-  "obsidian-importer",
-  "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
+  "obsidian-git",
+  "obsidian-importer",
   "dataview",
-  "obsidian-git"
+  "obsidian-kanban",
+  "omnisearch",
+  "templater-obsidian"
 ]
