@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "385664d8139b3b0f",
+        "id": "5c5450eafe0ef445",
         "type": "tabs",
         "children": [
           {
-            "id": "cc70fd6d81451c6e",
+            "id": "4af00a664263c21c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Loss Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loss Functions"
             }
           }
         ]
@@ -75,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c901ae78787cd0bc",
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Loss Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Loss Functions"
             }
           },
           {
@@ -203,17 +209,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc70fd6d81451c6e",
+  "active": "4af00a664263c21c",
   "lastOpenFiles": [
-    "Gradient Flow.md",
-    "Backpropagation.md",
-    "Chain Rule.md",
     "ANN.md",
+    "Forward Propagation.md",
+    "Backpropagation.md",
+    "Computational Graphs.md",
+    "Gradient Flow.md",
+    "ReLU.md",
+    "Chain Rule.md",
     "Tanh.md",
     "Sigmoid.md",
-    "ReLU.md",
     "Loss Functions.md",
-    "Forward Propagation.md",
     "Architecture.md",
     "Student Performance Predictor.md",
     "CI/CD.md",

@@ -17,11 +17,8 @@ In simple terms:
 In neural networks:
 
 - Output depends on hidden layer
-    
 - Hidden layer depends on weights
-    
-- So everything is **connected like a chain**
-    
+- So everything is **connected like a chain** 
 
 So to find:
 
@@ -82,11 +79,8 @@ We multiply all small effects together.
 Imagine pizza delivery:
 
 - Weather affects traffic
-    
 - Traffic affects delivery time
-    
 - Delivery time affects customer happiness
-    
 
 If you want to know:
 
@@ -95,11 +89,8 @@ If you want to know:
 You multiply:
 
 - Weather → traffic effect
-    
 - Traffic → time effect
-    
 - Time → happiness effect
-    
 
 That’s exactly chain rule.
 
