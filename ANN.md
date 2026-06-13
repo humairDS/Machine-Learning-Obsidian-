@@ -1,4 +1,4 @@
-- [[Architecture]]
+- [[Architecture ANN]] 
 - [[Forward Propagation]]
 - [[Loss Functions]]
 - [[Backpropagation]] 
@@ -102,3 +102,5 @@ ANN processes these and outputs:
 - Chatbots
 - Stock prediction
 - Medical diagnosis
+
+## [[Practical Example of ANN]] 
