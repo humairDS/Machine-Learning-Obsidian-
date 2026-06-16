@@ -1,4 +1,4 @@
 - [[AI vs ML vs DL]]
-- [[Supervised Learning]]
+- [[Supervised Learning]] 
 - [[Unsupervised Learning]]
 - [[Reinforcement Learning Overview]]
