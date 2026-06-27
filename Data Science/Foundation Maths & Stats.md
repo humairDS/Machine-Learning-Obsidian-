@@ -4,7 +4,5 @@
 4. [[Information Theory]]
 5. [[Data Analysis Tools]]
 6. [[Data Preprocessing]] 
-7. [[SQL]]
-8. [[R Language]]
-9. [[Power Bi]] 
+7. [[Data Science/SQL]] 
 

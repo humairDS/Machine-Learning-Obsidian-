@@ -9,14 +9,14 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.3,
-  "nodeSizeMultiplier": 0.9421875,
-  "lineSizeMultiplier": 0.916666666666667,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.7125,
+  "lineSizeMultiplier": 0.7125,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 0,
-  "linkStrength": 0,
-  "linkDistance": 30,
-  "scale": 0.2292013594174924,
-  "close": true
+  "repelStrength": 2.91666666666667,
+  "linkStrength": 0.848958333333333,
+  "linkDistance": 483,
+  "scale": 0.16348370567220472,
+  "close": false
 }
